@@ -1,4 +1,4 @@
-patient_id,name,birthday,prefix,first,last,gender
+patient_id,a_name,birthday,prefix,first,last,gender
 S99991992,Georgie Springfield,11/27/12,Mr.,Georgie,Springfield,M
 S99922108,Deborah Northampton,7/14/97,Ms.,Deborah,Boston,M
 S99954202,Neve Northampton,4/21/01,Mr.,Neve,Northampton,F
